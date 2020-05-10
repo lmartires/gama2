@@ -1,2 +1,4 @@
 # gama2
-Exercício Gama Academy Web Dev Site Aluguel
+exercício de desenvolvimento web - gama academy hiring coders
+
+maio 2020
